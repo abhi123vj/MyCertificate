@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "606894171721",
+    "firebase_url": "https://mycertificate-9f5f9.firebaseio.com",
+    "project_id": "mycertificate-9f5f9",
+    "storage_bucket": "mycertificate-9f5f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606894171721:android:69976ee15ca28b438f0198",
+        "android_client_info": {
+          "package_name": "com.abhi.mycertificate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606894171721-5qdjklngu11ms9i9qstj8j0gpm67hvmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKjf4vbKZNHkTAHQLzycX27K2Dfkx1hko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606894171721-5qdjklngu11ms9i9qstj8j0gpm67hvmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
